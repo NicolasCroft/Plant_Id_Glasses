@@ -74,7 +74,7 @@ Get a free API key from [Plant.id](https://plant.id/) and set it in `identify_on
 API_KEY = "your_api_key_here"
 ```
 
-> ⚠️ **Do not commit your API key to version control.** Consider moving it to a `.env` file or environment variable.
+>  **Do not commit your API key to version control.** Consider moving it to a `.env` file or environment variable.
 
 ---
 
@@ -125,10 +125,10 @@ Tested identifications:
 
 Plant ID is just the beginning. This same glasses + API framework could support:
 
-- 🩺 **Skin condition self-diagnosis** — reliable visual screening without Googling symptoms
-- 🧠 **Name recall** — facial recognition to help people with memory conditions
-- 👁️ **Assistive vision** — help the partially blind "see" and understand their surroundings
-- 🤖 **General AI assistant** — never be confused about something you see again
+-  **Skin condition self-diagnosis** — reliable visual screening without Googling symptoms
+-  **Name recall** — facial recognition to help people with memory conditions
+-  **Assistive vision** — help the partially blind "see" and understand their surroundings
+-  **General AI assistant** — never be confused about something you see again
 
 ---
 
